@@ -1,0 +1,196 @@
+.app-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.rating-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    color: #FF5733;
+    font-size: 18px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.rating {
+    font-weight: bold;
+    color: #FF5733;
+    font-size: 30px;
+    margin: 0;
+}
+
+input[type="text"],
+.search-input,
+.search-button,
+.share-button,
+button.search-button,
+button.share-button {
+    width: 40%;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    margin-left: 20px;
+}
+
+button {
+    padding: 15px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 25px;
+    margin: 15px 0;
+    width: 200px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.add-button {
+    margin-left: 20px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+
+button.search-button,
+button.share-button {
+    float: right;
+}
+
+
+.movie-list,
+.favorite-movies-table {
+    margin-top: 20px;
+    width: 100%;
+    list-style-type: none;
+    padding: 0;
+    background-color: white;
+}
+
+    .movie-list li,
+    .favorite-movies-table th,
+    .favorite-movies-table td {
+        padding: 10px;
+        border-bottom: 1px solid #ccc;
+    }
+
+
+.movie-details-container img {
+    margin-top: 10px;
+}
+
+
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: black;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-family: 'Copperplate Gothic';
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.remove-button,
+.update-button {
+    padding: 15px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 25px;
+    margin: 10px 0;
+    width: 200px;
+}
+
+.update-button {
+    padding: 15px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 25px;
+    margin: 10px;
+    width: 200px;
+}
+
+
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
