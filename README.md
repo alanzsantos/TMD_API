@@ -15,6 +15,7 @@ GIT
 - Depois digite npm start (para executar o projeto)
 
 # Configuração do banco de dados
+- Abra o Visual Studio 2022;
 - Vá na pasta ConfigBanco;
 - Abra o arquivo bancoconfig.sql e copie tudo;
 - Abra o SQL Server Management Studio;
@@ -23,13 +24,13 @@ GIT
 - Nomeie como BDR e clique em Ok;
 - Faça uma nova consulta e cole o arquivo que você copiou de bancoconfig.sql;
 - Clique em executar;
+- Volte ao Visual Studio 2022;
 - Abra o appsettings.json, substitua em Data Source="ALAN_S\\SQLEXPRESS01" pelo servidor de seu banco SQL Server e salve o arquivo;
 - Exemplo:
   "ConnectionStrings": {
     "DefaultConnection": "Data Source=seu\\servidor01;Initial Catalog=BDR;Integrated Security=True;Trust Server Certificate=True"
   }
 - Abra appsettingss.jsonDevelopment e faça a mesma coisa;
-- Abra o projeto;
 - Clique com o botão direito em Connected Services;
 - Vá em add e depois em SQL Server Database;
 - Escolha a terceira opção "SQL Server Database" On-premise;
