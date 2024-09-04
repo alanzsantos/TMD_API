@@ -8261,11 +8261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alan_\\Downloads\\backup 100% c variaveis\\Rating_API\\Rating_API.csproj",
+      "projectUniqueName": "C:\\Users\\alan_\\Downloads\\TMD_API\\Rating_API\\Rating_API.csproj",
       "projectName": "Rating_API",
-      "projectPath": "C:\\Users\\alan_\\Downloads\\backup 100% c variaveis\\Rating_API\\Rating_API.csproj",
+      "projectPath": "C:\\Users\\alan_\\Downloads\\TMD_API\\Rating_API\\Rating_API.csproj",
       "packagesPath": "C:\\Users\\alan_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alan_\\Downloads\\backup 100% c variaveis\\Rating_API\\obj\\",
+      "outputPath": "C:\\Users\\alan_\\Downloads\\TMD_API\\Rating_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alan_\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C835904-A314-42A8-84A8-C83A30D7B402}|Rating_API.csproj|c:\\users\\alan_\\downloads\\backup 100% c variaveis\\rating_api\\ratingfrontend\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{7C835904-A314-42A8-84A8-C83A30D7B402}|Rating_API.csproj|solutionrelative:ratingfrontend\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C835904-A314-42A8-84A8-C83A30D7B402}|Rating_API.csproj|c:\\users\\alan_\\downloads\\backup 100% c variaveis\\rating_api\\ratingfrontend\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C835904-A314-42A8-84A8-C83A30D7B402}|Rating_API.csproj|solutionrelative:ratingfrontend\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\alan_\\Downloads\\backup 100% c variaveis\\Rating_API\\ratingfrontend\\public\\index.html",
+              "RelativeDocumentMoniker": "ratingfrontend\\public\\index.html",
+              "ToolTip": "C:\\Users\\alan_\\Downloads\\backup 100% c variaveis\\Rating_API\\ratingfrontend\\public\\index.html",
+              "RelativeToolTip": "ratingfrontend\\public\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-01T20:23:07.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\alan_\\Downloads\\backup 100% c variaveis\\Rating_API\\ratingfrontend\\README.md",
               "RelativeDocumentMoniker": "ratingfrontend\\README.md",
               "ToolTip": "C:\\Users\\alan_\\Downloads\\backup 100% c variaveis\\Rating_API\\ratingfrontend\\README.md",
               "RelativeToolTip": "ratingfrontend\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-09-01T19:29:06.29Z",
               "EditorCaption": ""
