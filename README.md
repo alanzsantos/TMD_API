@@ -25,10 +25,10 @@ GIT
 - Faça uma nova consulta e cole o arquivo que você copiou de bancoconfig.sql;
 - Clique em executar;
 - Volte ao Visual Studio 2022;
-- Abra o appsettings.json, substitua em Data Source="ALAN_S\\SQLEXPRESS01" pelo servidor de seu banco SQL Server e salve o arquivo;
+- Abra o appsettings.json e substitua o Data Source, pelo servidor de seu banco SQL Server e salve o arquivo;
 - Exemplo:
   "ConnectionStrings": {
-    "DefaultConnection": "Data Source=seu\\servidor01;Initial Catalog=BDR;Integrated Security=True;Trust Server Certificate=True"
+    "DefaultConnection": "Data Source=seu\\servidor01;Initial Catalog=Nome_do_banco;Integrated Security=True;Trust Server Certificate=True"
   }
 - Abra appsettingss.jsonDevelopment e faça a mesma coisa;
 - Clique com o botão direito em Connected Services;
@@ -45,8 +45,9 @@ GIT
 - E clique em OK;
 Assim o banco estará configurado.
 
-# Como testar o Back-end e o Front-end?
-- Utilize o ID para teste de User: "21468158";
+# Como obter meu UserID e a chave API?
+- Você precisará criar uma conta em https://developer.themoviedb.org/reference/search-movie
+- Você precisará solicitar uma API Key no site, preenchendo alguns dados;
 
 # Funcionalidades do Back-end
 - Desenvolvido com Swagger, a API conta com endpoint's para pesquisar filmes, pesquisar filmes por id, adicionar filmes,
