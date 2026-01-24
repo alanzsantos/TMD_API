@@ -129,6 +129,7 @@ informando que não há favoritos disponíveis;
 - Se precisar digite: "y" para aceitar a compilação;
 
 # Tecnologias utilizadas
+- C#
 - React.js
 - Axios
 - .NET Core
